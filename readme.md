@@ -3,6 +3,7 @@ Original idea and SASS files from https://github.com/Weilbyte/PVEDiscordDark
 # Supported Proxmox Versions
 - 7.4
 - 8.0
+- 9.0
 
 ## UI Tweaks
 there is a few additional tweaks that can be enabled using the script. These are:
